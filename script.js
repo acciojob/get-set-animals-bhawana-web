@@ -1,5 +1,4 @@
 //complete this code
-// Animal class
 class Animal {
   constructor(species) {
     this._species = species; // Private property for species
